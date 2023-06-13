@@ -326,7 +326,7 @@ include 'includes/head.php';
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                            <div class="col mb-4">
                                 <div class="shadow container border border-info">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         Office
@@ -344,7 +344,7 @@ include 'includes/head.php';
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                            <div class="col mb-4">
                                 <div class="shadow container border border-info">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         Ativador
@@ -361,7 +361,7 @@ include 'includes/head.php';
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                            <div class="col mb-4">
                                 <div class="shadow container border border-info">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         Utilidades
@@ -390,7 +390,7 @@ include 'includes/head.php';
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                            <div class="col mb-4">
                                 <div class="shadow container border border-info">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         BitLife BR
@@ -407,7 +407,7 @@ include 'includes/head.php';
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                            <div class="col mb-4">
                                 <div class="shadow container border border-info">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         Score Hero! 2
@@ -436,7 +436,7 @@ include 'includes/head.php';
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                            <div class="col mb-4">
                                 <div class="shadow container border border-info">
                                     <!-- Portfolio Section Heading-->
                                     <h2 class="fs-4 text-center text-uppercase pt-3 mb-2">
