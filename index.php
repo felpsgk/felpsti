@@ -323,7 +323,7 @@ include 'includes/head.php';
                             Office
                         </h2>
                         <p class="text-center fw-bolder text-uppercase text-break">Pacote office completo</p>
-                        <a class="text-center fw-bolder text-uppercase text-break" href="https://drive.google.com/file/d/1tVMgYZh2mB3dO59VPukC1MJSfNG5lQrf/view?usp=drive_link" id="">BAIXAR</a>
+                        <button class="justify-content-center" href="https://drive.google.com/file/d/1tVMgYZh2mB3dO59VPukC1MJSfNG5lQrf/view?usp=drive_link" type="button">BAIXAR</button>
                         <!-- Icon Divider-->
                         <div class="divider-custom">
                             <div class="divider-custom-line"></div>
