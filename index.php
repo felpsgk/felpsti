@@ -316,59 +316,101 @@ include 'includes/head.php';
     <!-- Downloads Section-->
     <section class="mt-2 page-section text-black mb-0" id="regra3" style="background-color: var(--bs-gray-100); padding-top: 50px;padding-bottom: 0px;">
         <div class="container">
+            <div class="accordion" id="accordionExample">
+                <!-- accordion Section-->
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingOne">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            Accordion Item #1
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                                <div class="shadow container border border-info">
+                                    <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
+                                        Office
+                                    </h2>
+                                    <p class="text-center fw-bolder text-uppercase text-break">Pacote office completo. NÃO somos responsáveis, sequer donos, dos softwares disponibilizados. Apenas compartilhamos para seu uso. Arquivos contém senha: felpsgk</p>
+                                    <div class="d-grid gap-2 col-6 mx-auto">
+                                        <a href="https://drive.google.com/file/d/1A3njex27BXIcMrPcjjfaKZpWzdecnlyy/view?usp=drive_link" class="btn btn-primary" role="button">versão windows 10</a>
+                                        <a href="https://drive.google.com/file/d/1IpiQy-_8YtSuor_VSb8vQMYO_sipt99M/view?usp=drive_link" class="btn btn-primary" role="button">versão windows 11</a>
+                                    </div>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-laptop-code"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                                <div class="shadow container border border-info">
+                                    <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
+                                        Ativador
+                                    </h2>
+                                    <p class="text-center fw-bolder text-uppercase text-break">Ativador para windows 7 em diante, até windows 10. Não testado no 11, mas pode funcionar. NÃO somos responsáveis, sequer donos, dos softwares disponibilizados. Apenas compartilhamos para seu uso. Arquivos contém senha: felpsgk</p>
+                                    <div class="d-grid gap-2 col-6 mx-auto">
+                                        <a href="https://drive.google.com/file/d/1DTYvLs7IFjt0ylG2G4398xJEIZQbEek5/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
+                                    </div>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-laptop-code"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                                <div class="shadow container border border-info">
+                                    <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
+                                        Utilidades
+                                    </h2>
+                                    <p class="text-center fw-bolder text-uppercase text-break">Utilidades para sua recém formatação. Com este combo, você irá instalar o navegador Chrome, o KLite Codecs, o TeamViewer 15 e o WinRAR Installer!</p>
+                                    <div class="d-grid gap-2 col-6 mx-auto">
+                                        <a href="https://drive.google.com/file/d/1MFaxExUbZqaGEDwRCdbMndq0NJlx6--E/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
+                                    </div>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-laptop-code"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- accordion Section-->
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingTwo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Accordion Item #2
+                        </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        </div>
+                    </div>
+                </div>
+                <!-- accordion Section-->
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingThree">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Accordion Item #3
+                        </button>
+                    </h2>
+                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                            <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="row">
-                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                    <div class="shadow container border border-info">
-                        <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
-                            Office
-                        </h2>
-                        <p class="text-center fw-bolder text-uppercase text-break">Pacote office completo. NÃO somos responsáveis, sequer donos, dos softwares disponibilizados. Apenas compartilhamos para seu uso. Arquivos contém senha: felpsgk</p>
-                        <div class="d-grid gap-2 col-6 mx-auto">
-                            <a href="https://drive.google.com/file/d/1A3njex27BXIcMrPcjjfaKZpWzdecnlyy/view?usp=drive_link" class="btn btn-primary" role="button">versão windows 10</a>
-                            <a href="https://drive.google.com/file/d/1IpiQy-_8YtSuor_VSb8vQMYO_sipt99M/view?usp=drive_link" class="btn btn-primary" role="button">versão windows 11</a>
-                        </div>
-                        <!-- Icon Divider-->
-                        <div class="divider-custom">
-                            <div class="divider-custom-line"></div>
-                            <div class="divider-custom-icon"><i class="fa-solid fa-laptop-code"></i></div>
-                            <div class="divider-custom-line"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                    <div class="shadow container border border-info">
-                        <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
-                            Ativador
-                        </h2>
-                        <p class="text-center fw-bolder text-uppercase text-break">Ativador para windows 7 em diante, até windows 10. Não testado no 11, mas pode funcionar. NÃO somos responsáveis, sequer donos, dos softwares disponibilizados. Apenas compartilhamos para seu uso. Arquivos contém senha: felpsgk</p>
-                        <div class="d-grid gap-2 col-6 mx-auto">
-                            <a href="https://drive.google.com/file/d/1DTYvLs7IFjt0ylG2G4398xJEIZQbEek5/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
-                        </div>
-                        <!-- Icon Divider-->
-                        <div class="divider-custom">
-                            <div class="divider-custom-line"></div>
-                            <div class="divider-custom-icon"><i class="fa-solid fa-laptop-code"></i></div>
-                            <div class="divider-custom-line"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                    <div class="shadow container border border-info">
-                        <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
-                            Utilidades
-                        </h2>
-                        <p class="text-center fw-bolder text-uppercase text-break">Utilidades para sua recém formatação. Com este combo, você irá instalar o navegador Chrome, o KLite Codecs, o TeamViewer 15 e o WinRAR Installer!</p>
-                        <div class="d-grid gap-2 col-6 mx-auto">
-                            <a href="https://drive.google.com/file/d/1MFaxExUbZqaGEDwRCdbMndq0NJlx6--E/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
-                        </div>
-                        <!-- Icon Divider-->
-                        <div class="divider-custom">
-                            <div class="divider-custom-line"></div>
-                            <div class="divider-custom-icon"><i class="fa-solid fa-laptop-code"></i></div>
-                            <div class="divider-custom-line"></div>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
                     <div class="shadow container border border-info">
                         <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
