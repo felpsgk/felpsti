@@ -456,7 +456,7 @@ include 'includes/head.php';
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                            <div class="col mb-4">
                                 <div class="shadow container border border-info">
                                     <!-- Portfolio Section Heading-->
                                     <h2 class="text-center text-uppercase pt-3 mb-2">Conhecimento</h2>
