@@ -324,7 +324,7 @@ include 'includes/head.php';
                         </h2>
                         <p class="text-center fw-bolder text-uppercase text-break">Pacote office completo</p>
                         <div class="d-grid gap-2 col-6 mx-auto">
-                            <button class="btn btn-primary" type="button"><a href="https://drive.google.com/file/d/1tVMgYZh2mB3dO59VPukC1MJSfNG5lQrf/view?usp=drive_link">BAIXAR</a></button>
+                            <a href="https://drive.google.com/file/d/1tVMgYZh2mB3dO59VPukC1MJSfNG5lQrf/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
                         </div>
                         <!-- Icon Divider-->
                         <div class="divider-custom">
