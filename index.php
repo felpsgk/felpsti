@@ -97,70 +97,6 @@ include 'includes/head.php';
             </div>
         </div>
     </section>
-    <!-- SOBRANDO Section
-    <section class="page-section portfolio" id="ganhosUber" style="padding-top: 50px;padding-bottom: 0px;">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
-                    <div class="shadow container">
-                        <h2 class="page-section-heading text-center text-uppercase mb-2">Regra de 3</h2>
-                        <p class="text-center fw-bolder text-uppercase text-break">Use esta seção para calcular uma
-                            regra de 3
-                            simples</p>
-                        <div class="divider-custom">
-                            <div class="divider-custom-line"></div>
-                            <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                            <div class="divider-custom-line"></div>
-
-                        </div>
-
-                        <div class="row justify-content-center">
-                            <h2>teste</h2>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
-                    <div class="shadow container">
-                        <h2 class="page-section-heading text-center text-uppercase mb-2">Regra de 3</h2>
-                        <p class="text-center fw-bolder text-uppercase text-break">Use esta seção para calcular uma
-                            regra de 3
-                            simples</p>
-                        <div class="divider-custom">
-                            <div class="divider-custom-line"></div>
-                            <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                            <div class="divider-custom-line"></div>
-
-                        </div>
-
-                        <div class="row justify-content-center">
-                            <h2>teste</h2>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
-                    <div class="shadow container">
-                        <h2 class="page-section-heading text-center text-uppercase mb-2">Regra de 3</h2>
-                        <p class="text-center fw-bolder text-uppercase text-break">Use esta seção para calcular uma
-                            regra de 3
-                            simples</p>
-                        <div class="divider-custom">
-                            <div class="divider-custom-line"></div>
-                            <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                            <div class="divider-custom-line"></div>
-
-                        </div>
-
-                        <div class="row justify-content-center">
-                            <h2>teste</h2>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>-->
     <!-- OUTROS PROJETOS SECTION-->
     <section class="page-section portfolio" id="consumo" style="padding-top: 100px;padding-bottom: 0px;">
         <h1 class="page-section-heading text-center text-uppercase mb-5">
@@ -171,7 +107,7 @@ include 'includes/head.php';
                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
                     <div class="shadow container bg-light border border-info">
                         <!-- Portfolio Section Heading-->
-                        <h2 class="fs-3 text-center text-uppercase pt-3 mb-2">CALCULAR CONSUMO
+                        <h2 id="consumo" class="fs-3 text-center text-uppercase pt-3 mb-2">CALCULAR CONSUMO
                         </h2>
                         <p class="fs-6 text-center fw-bolder text-uppercase text-break">Use esta seção para saber quanto de
                             gasolina
@@ -230,7 +166,7 @@ include 'includes/head.php';
                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
                     <div class="shadow container bg-light border border-info">
                         <!-- Portfolio Section Heading-->
-                        <h2 class="fs-3 text-center text-uppercase pt-3 mb-2">Ganhos na uber
+                        <h2 id="ganhos" class="fs-3 text-center text-uppercase pt-3 mb-2">Ganhos na uber
                         </h2>
                         <p class="fs-5 text-center fw-bolder text-uppercase text-break">Use esta seção para saber qual seu
                             lucro na
@@ -310,7 +246,7 @@ include 'includes/head.php';
                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
                     <div class="shadow container bg-light border border-info">
                         <!-- Portfolio Section Heading-->
-                        <h2 class="fs-3 text-center text-uppercase pt-3 mb-2">Regra de 3</h2>
+                        <h2 id="regra3" class="fs-3 text-center text-uppercase pt-3 mb-2">Regra de 3</h2>
                         <p class="fs-5 text-center fw-bolder text-uppercase text-break">Use esta seção para calcular uma
                             regra de 3
                             simples</p>
@@ -371,6 +307,79 @@ include 'includes/head.php';
                                 </script>
 
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Downloads Section-->
+    <section class="mt-2 page-section text-black mb-0" id="regra3" style="background-color: var(--bs-gray-100); padding-top: 50px;padding-bottom: 0px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                    <div class="shadow container border border-info">
+                        <h2 class="fs-4 text-center text-uppercase pt-3 mb-2">
+                            Office
+                        </h2>
+                        <p class="text-center fw-bolder text-uppercase text-break">Pacote office completo</p>
+                        <a class="text-center fw-bolder text-uppercase text-break" href="https://drive.google.com/file/d/1tVMgYZh2mB3dO59VPukC1MJSfNG5lQrf/view?usp=drive_link" id="">BAIXAR</a>
+                        <!-- Icon Divider-->
+                        <div class="divider-custom">
+                            <div class="divider-custom-line"></div>
+                            <div class="divider-custom-icon"><i class="fa-solid fa-laptop-code"></i></div>
+                            <div class="divider-custom-line"></div>
+
+                        </div>
+
+                        <!-- Portfolio Grid Items-->
+                        <div class="row justify-content-center">
+                            <!-- Portfolio Item 1-->
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                    <div class="shadow container border border-info">
+                        <!-- Portfolio Section Heading-->
+                        <h2 class="fs-4 text-center text-uppercase pt-3 mb-2">
+                            Suporte técnico</h2>
+                        <p class="text-center fw-bolder text-uppercase text-break">
+                            Suporte técnico, prestando manutenção em PC's, consultoria e montagem!
+                        </p>
+                        <!-- Icon Divider-->
+                        <div class="divider-custom">
+                            <div class="divider-custom-line"></div>
+                            <div class="divider-custom-icon"><i class="fa-solid fa-microchip"></i></div>
+                            <div class="divider-custom-line"></div>
+
+                        </div>
+
+                        <!-- Portfolio Grid Items-->
+                        <div class="row justify-content-center">
+                            <!-- Portfolio Item 1-->
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                    <div class="shadow container border border-info">
+                        <!-- Portfolio Section Heading-->
+                        <h2 class="text-center text-uppercase pt-3 mb-2">Conhecimento</h2>
+                        <p class="text-center fw-bolder text-uppercase text-break">
+                            Aulas práticas e teóricas, particulares ou sob demanda!
+                        </p>
+                        <!-- Icon Divider-->
+                        <div class="divider-custom">
+                            <div class="divider-custom-line"></div>
+                            <div class="divider-custom-icon"><i class="fa-solid fa-glasses"></i></div>
+                            <div class="divider-custom-line"></div>
+
+                        </div>
+
+                        <!-- Portfolio Grid Items-->
+                        <div class="row justify-content-center">
+                            <!-- Portfolio Item 1-->
                         </div>
                     </div>
                 </div>

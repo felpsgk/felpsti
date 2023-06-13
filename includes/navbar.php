@@ -22,10 +22,17 @@
                         <li><a class="dropdown-item" href="memoriaNv3.htm">Jogo da memória (NV3)</a></li>
                     </ul>
                 </li>
-                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#consumo">Calcular consumo</a></li>
-                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#regra3">Regra
-                        de 3</a></li>
-                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#ganhosUber">Ganhos na Uber</a></li>
+                <li class="nav-item mx-0 mx-lg-1 dropdown">
+                    <a class="nav-link py-3 px-0 px-lg-3 rounded dropdown-toggle" href="#" id="navbarUtils" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Utilidades
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarUtils">
+                        <li class="dropdown-item"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#consumo">Calcular consumo</a></li>
+                        <li class="dropdown-item"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#regra3">Regra de 3</a></li>
+                        <li class="dropdown-item"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#ganhos">Ganhos na Uber</a></li>
+                    </ul>
+                </li>
+
             </ul>
         </div>
     </div>
