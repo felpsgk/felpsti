@@ -402,7 +402,7 @@ include 'includes/head.php';
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
-                                        <div class="divider-custom-icon"><i class="fa-solid fa-family"></i></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-people-roof"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
                                 </div>
