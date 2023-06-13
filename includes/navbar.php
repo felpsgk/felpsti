@@ -32,7 +32,7 @@
                         <li class="dropdown-item"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#ganhos">Ganhos na Uber</a></li>
                     </ul>
                 </li>
-
+                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#downloads">Downloads</a></li>
             </ul>
         </div>
     </div>

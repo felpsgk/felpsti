@@ -319,25 +319,70 @@ include 'includes/head.php';
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
                     <div class="shadow container border border-info">
-                        <h2 class="fs-4 text-center text-uppercase pt-3 mb-2">
+                        <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                             Office
                         </h2>
-                        <p class="text-center fw-bolder text-uppercase text-break">Pacote office completo</p>
+                        <p class="text-center fw-bolder text-uppercase text-break">Pacote office completo. NÃO somos responsáveis, sequer donos, dos softwares disponibilizados. Apenas compartilhamos para seu uso. Arquivos contém senha: felpsgk</p>
                         <div class="d-grid gap-2 col-6 mx-auto">
-                            <a href="https://drive.google.com/file/d/1tVMgYZh2mB3dO59VPukC1MJSfNG5lQrf/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
+                            <a href="https://drive.google.com/file/d/1A3njex27BXIcMrPcjjfaKZpWzdecnlyy/view?usp=drive_link" class="btn btn-primary" role="button">versão windows 10</a>
+                            <a href="https://drive.google.com/file/d/1IpiQy-_8YtSuor_VSb8vQMYO_sipt99M/view?usp=drive_link" class="btn btn-primary" role="button">versão windows 11</a>
                         </div>
                         <!-- Icon Divider-->
                         <div class="divider-custom">
                             <div class="divider-custom-line"></div>
                             <div class="divider-custom-icon"><i class="fa-solid fa-laptop-code"></i></div>
                             <div class="divider-custom-line"></div>
-
                         </div>
-
-                        <!-- Portfolio Grid Items-->
-                        <div class="row justify-content-center">
-                            <!-- Portfolio Item 1-->
-
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                    <div class="shadow container border border-info">
+                        <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
+                            Ativador
+                        </h2>
+                        <p class="text-center fw-bolder text-uppercase text-break">Ativador para windows 7 em diante, até windows 10. Não testado no 11, mas pode funcionar. NÃO somos responsáveis, sequer donos, dos softwares disponibilizados. Apenas compartilhamos para seu uso. Arquivos contém senha: felpsgk</p>
+                        <div class="d-grid gap-2 col-6 mx-auto">
+                            <a href="https://drive.google.com/file/d/1DTYvLs7IFjt0ylG2G4398xJEIZQbEek5/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
+                        </div>
+                        <!-- Icon Divider-->
+                        <div class="divider-custom">
+                            <div class="divider-custom-line"></div>
+                            <div class="divider-custom-icon"><i class="fa-solid fa-laptop-code"></i></div>
+                            <div class="divider-custom-line"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                    <div class="shadow container border border-info">
+                        <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
+                            Utilidades
+                        </h2>
+                        <p class="text-center fw-bolder text-uppercase text-break">Utilidades para sua recém formatação. Com este combo, você irá instalar o navegador Chrome, o KLite Codecs, o TeamViewer 15 e o WinRAR Installer!</p>
+                        <div class="d-grid gap-2 col-6 mx-auto">
+                            <a href="https://drive.google.com/file/d/1MFaxExUbZqaGEDwRCdbMndq0NJlx6--E/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
+                        </div>
+                        <!-- Icon Divider-->
+                        <div class="divider-custom">
+                            <div class="divider-custom-line"></div>
+                            <div class="divider-custom-icon"><i class="fa-solid fa-laptop-code"></i></div>
+                            <div class="divider-custom-line"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                    <div class="shadow container border border-info">
+                        <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
+                            BitLife BR
+                        </h2>
+                        <p class="text-center fw-bolder text-uppercase text-break">Jogo BitLife com mod de dinheiro</p>
+                        <div class="d-grid gap-2 col-6 mx-auto">
+                            <a href="https://drive.google.com/file/d/1VfVfVcmIgtlX3R50f5MntRC2dBdgPg1Q/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
+                        </div>
+                        <!-- Icon Divider-->
+                        <div class="divider-custom">
+                            <div class="divider-custom-line"></div>
+                            <div class="divider-custom-icon"><i class="fa-solid fa-gamepad"></i></div>
+                            <div class="divider-custom-line"></div>
                         </div>
                     </div>
                 </div>
