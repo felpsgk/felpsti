@@ -318,16 +318,16 @@ include 'includes/head.php';
         <div class="container">
             <div class="accordion" id="accordionExample">
                 <!-- accordion Section-->
-                <div class="accordion-item">
+                <div class="accordion-item border-info">
                     <h2 class="accordion-header" id="headingOne">
-                        <button class="accordion-button btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        <button class="accordion-button bg-white text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             Programas
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                                <div class="shadow container border border-primary">
+                                <div class="shadow container border border-info">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         Office
                                     </h2>
@@ -345,7 +345,7 @@ include 'includes/head.php';
                                 </div>
                             </div>
                             <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                                <div class="shadow container border border-primary">
+                                <div class="shadow container border border-info">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         Ativador
                                     </h2>
@@ -362,7 +362,7 @@ include 'includes/head.php';
                                 </div>
                             </div>
                             <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                                <div class="shadow container border border-primary">
+                                <div class="shadow container border border-info">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         Utilidades
                                     </h2>
@@ -384,7 +384,7 @@ include 'includes/head.php';
                 <!-- accordion Section-->
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingTwo">
-                        <button class="accordion-button collapsed btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <button class="accordion-button bg-white text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             Jogos
                         </button>
                     </h2>
@@ -402,7 +402,24 @@ include 'includes/head.php';
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
-                                        <div class="divider-custom-icon"><i class="fa-solid fa-gamepad"></i></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-family"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                                <div class="shadow container border border-info">
+                                    <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
+                                        Score Hero! 2
+                                    </h2>
+                                    <p class="text-center fw-bolder text-uppercase text-break">Jogo Score Hero! 2 com mod de dinheiro</p>
+                                    <div class="d-grid gap-2 col-6 mx-auto">
+                                        <a href="https://drive.google.com/file/d/16XmbEh9disP5uMl8tq117DVSBJZA7tGE/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
+                                    </div>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-futbol"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
                                 </div>
@@ -413,7 +430,7 @@ include 'includes/head.php';
                 <!-- accordion Section-->
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingThree">
-                        <button class="accordion-button collapsed btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        <button class="accordion-button bg-white text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             Sobre
                         </button>
                     </h2>
