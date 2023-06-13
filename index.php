@@ -320,14 +320,14 @@ include 'includes/head.php';
                 <!-- accordion Section-->
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            Accordion Item #1
+                        <button class="accordion-button btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            Programas
                         </button>
                     </h2>
                     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
                             <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                                <div class="shadow container border border-info">
+                                <div class="shadow container border border-primary">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         Office
                                     </h2>
@@ -345,7 +345,7 @@ include 'includes/head.php';
                                 </div>
                             </div>
                             <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                                <div class="shadow container border border-info">
+                                <div class="shadow container border border-primary">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         Ativador
                                     </h2>
@@ -362,7 +362,7 @@ include 'includes/head.php';
                                 </div>
                             </div>
                             <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                                <div class="shadow container border border-info">
+                                <div class="shadow container border border-primary">
                                     <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
                                         Utilidades
                                     </h2>
@@ -384,91 +384,80 @@ include 'includes/head.php';
                 <!-- accordion Section-->
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingTwo">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            Accordion Item #2
+                        <button class="accordion-button collapsed btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            Jogos
                         </button>
                     </h2>
                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                                <div class="shadow container border border-info">
+                                    <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
+                                        BitLife BR
+                                    </h2>
+                                    <p class="text-center fw-bolder text-uppercase text-break">Jogo BitLife com mod de dinheiro</p>
+                                    <div class="d-grid gap-2 col-6 mx-auto">
+                                        <a href="https://drive.google.com/file/d/1VfVfVcmIgtlX3R50f5MntRC2dBdgPg1Q/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
+                                    </div>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-gamepad"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <!-- accordion Section-->
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingThree">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            Accordion Item #3
+                        <button class="accordion-button collapsed btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            Sobre
                         </button>
                     </h2>
                     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                         <div class="accordion-body">
-                            <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-
-                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                    <div class="shadow container border border-info">
-                        <h2 id="downloads" class="fs-4 text-center text-uppercase pt-3 mb-2">
-                            BitLife BR
-                        </h2>
-                        <p class="text-center fw-bolder text-uppercase text-break">Jogo BitLife com mod de dinheiro</p>
-                        <div class="d-grid gap-2 col-6 mx-auto">
-                            <a href="https://drive.google.com/file/d/1VfVfVcmIgtlX3R50f5MntRC2dBdgPg1Q/view?usp=drive_link" class="btn btn-primary" role="button">BAIXAR</a>
-                        </div>
-                        <!-- Icon Divider-->
-                        <div class="divider-custom">
-                            <div class="divider-custom-line"></div>
-                            <div class="divider-custom-icon"><i class="fa-solid fa-gamepad"></i></div>
-                            <div class="divider-custom-line"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                    <div class="shadow container border border-info">
-                        <!-- Portfolio Section Heading-->
-                        <h2 class="fs-4 text-center text-uppercase pt-3 mb-2">
-                            Suporte técnico</h2>
-                        <p class="text-center fw-bolder text-uppercase text-break">
-                            Suporte técnico, prestando manutenção em PC's, consultoria e montagem!
-                        </p>
-                        <!-- Icon Divider-->
-                        <div class="divider-custom">
-                            <div class="divider-custom-line"></div>
-                            <div class="divider-custom-icon"><i class="fa-solid fa-microchip"></i></div>
-                            <div class="divider-custom-line"></div>
-
-                        </div>
-
-                        <!-- Portfolio Grid Items-->
-                        <div class="row justify-content-center">
-                            <!-- Portfolio Item 1-->
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
-                    <div class="shadow container border border-info">
-                        <!-- Portfolio Section Heading-->
-                        <h2 class="text-center text-uppercase pt-3 mb-2">Conhecimento</h2>
-                        <p class="text-center fw-bolder text-uppercase text-break">
-                            Aulas práticas e teóricas, particulares ou sob demanda!
-                        </p>
-                        <!-- Icon Divider-->
-                        <div class="divider-custom">
-                            <div class="divider-custom-line"></div>
-                            <div class="divider-custom-icon"><i class="fa-solid fa-glasses"></i></div>
-                            <div class="divider-custom-line"></div>
-
-                        </div>
-
-                        <!-- Portfolio Grid Items-->
-                        <div class="row justify-content-center">
-                            <!-- Portfolio Item 1-->
+                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                                <div class="shadow container border border-info">
+                                    <!-- Portfolio Section Heading-->
+                                    <h2 class="fs-4 text-center text-uppercase pt-3 mb-2">
+                                        Suporte técnico</h2>
+                                    <p class="text-center fw-bolder text-uppercase text-break">
+                                        Suporte técnico, prestando manutenção em PC's, consultoria e montagem!
+                                    </p>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-microchip"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Grid Items-->
+                                    <div class="row justify-content-center">
+                                        <!-- Portfolio Item 1-->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4 mb-4 ">
+                                <div class="shadow container border border-info">
+                                    <!-- Portfolio Section Heading-->
+                                    <h2 class="text-center text-uppercase pt-3 mb-2">Conhecimento</h2>
+                                    <p class="text-center fw-bolder text-uppercase text-break">
+                                        Aulas práticas e teóricas, particulares ou sob demanda!
+                                    </p>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-glasses"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Grid Items-->
+                                    <div class="row justify-content-center">
+                                        <!-- Portfolio Item 1-->
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
